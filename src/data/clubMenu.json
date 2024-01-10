@@ -1,0 +1,16 @@
+{
+    "menu":[
+      {"dishName":"Kadahi Paneer",
+       "Ingredients":"Cheese,Milk,Onion, Tomato",
+       "spiceLevel":"Medium"},
+       {"dishName":"Butter Chicken",
+       "Ingredients":"Cheese,Milk,Onion, Tomato",
+       "spiceLevel":"Medium"},
+       {"dishName":"Shahi Paneer",
+       "Ingredients":"Cheese,Milk,Onion, Tomato",
+       "spiceLevel":"Medium"},
+       {"dishName":"Cheese Chilli",
+       "Ingredients":"Cheese,Milk,Onion, Tomato",
+       "spiceLevel":"Hot"}
+    ]
+}
